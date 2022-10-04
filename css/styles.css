@@ -208,3 +208,42 @@ font-weight: 400;
 .address-link:hover,
 .address-link:focus{
  color: #2196F3;}
+
+ /* ------------PORTFOLIO-------- */
+ .filters-btn{
+    font-family: inherit;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.62;
+        letter-spacing: 0.03em;
+        color: #212121;
+        background: #F5F4FA;
+        border-radius: 4px;
+        cursor: pointer;  
+        border-color: transparent;  
+ }
+ .filters-btn:hover,
+.filters-btn:focus{
+    color: #2196F3;
+
+    /* ------------PORTFOLIO-PROJECTS-------- */
+}
+.portfolio-item {
+background: #FFFFFF;
+border: 1px solid #EEEEEE;}
+
+.portfolio-title{
+font-weight: 700;
+font-size: 18px;
+line-height: 2;
+letter-spacing: 0.06em;
+color: #212121;}
+
+.portfolio-text{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.88;
+        letter-spacing: 0.03em;
+        color: #757575;
+}
